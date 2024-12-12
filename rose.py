@@ -2,7 +2,7 @@ import telebot
 from datetime import datetime
 
 # Replace 'YOUR_TOKEN' with your actual bot token
-BOT_TOKEN = '7288004471:AAHeTNJrhYjn0WAR_5becOaLZUZ_2T2ROcY'
+BOT_TOKEN = '7898648025:AAEznfaTQFrA8rhhgiESZSLmGoOu3PkodKQ'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Initialize a blacklist
