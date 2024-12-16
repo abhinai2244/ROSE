@@ -22,6 +22,7 @@ def send_help(message):
         "/kick [user_id] - Kick a user\n"
         "/blacklist [word] - Add a word to the blacklist\n"
         "/show_blacklist - Show all blacklisted words\n"
+        "MADE BY ABHINAI\n"
     )
     bot.reply_to(message, help_text)
 
